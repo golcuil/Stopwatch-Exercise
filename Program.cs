@@ -9,7 +9,7 @@ namespace StopWatch {
             Console.WriteLine("Welcome to Stopwatch simulation.");
             int userSelection = -1;
 
-            StopWatch newStopWatch = new();
+            Stopwatch newStopWatch = new();
 
             while (userSelection != 0)
             {
